@@ -1,0 +1,47 @@
+1:#pragma source on
+#key:int
+#id:gcd
+#punc:(
+#key:int
+#id:a
+#punc:,
+#key:int
+#id:b
+#punc:)
+#punc:{
+2:int gcd(int a, int b) {
+#key:if
+#punc:(
+#id:b
+#op:==
+#integer:0
+#punc:)
+#punc:{
+3:    if(b == 0) {
+#key:return
+#id:a
+#punc:;
+4:        return a;
+#punc:}
+#key:else
+#punc:{
+#key:return
+#id:gcd
+#punc:(
+#id:b
+#punc:,
+#id:a
+#op:%
+#id:b
+#punc:)
+#punc:;
+#punc:}
+9:#pragma source on
+#punc:}
+10:}
+11:
+12:#pragma token off
+13:int main() {
+14:#pragma token on
+#punc:}
+15:}

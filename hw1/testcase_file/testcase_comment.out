@@ -1,0 +1,17 @@
+1:/***
+2:* here is the comment 
+3:* multi line
+4:* can see in many different open source project file header to represent this file 
+5:*
+6:****/
+7:
+8:/*
+9:  twice multi-line comment
+10:  // dasd
+11:*/
+12:
+13:// one line 
+14:
+15:// int void 
+16:
+17:// + - * /

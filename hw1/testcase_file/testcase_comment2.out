@@ -1,0 +1,21 @@
+1:/* 
+2:asd
+3:aaaaa
+4:bbbbb
+5:ccccc
+6:ddddd
+#key:int
+#id:aa
+#op:=
+#integer:123
+#punc:;
+7:*/ int aa = 123;
+8:
+9:/* asdsdfdfg  */ // asd
+10:
+#key:int
+#id:a
+#op:=
+#integer:10
+#punc:;
+11:int a = 10; // test

@@ -1,0 +1,70 @@
+1:
+#key:int
+#id:main
+#punc:(
+#punc:)
+#punc:{
+2:int main() {
+#key:double
+#id:a
+#op:=
+#sci:123E123
+#punc:;
+3:	double a = 123E123;
+#key:double
+#id:b
+#op:=
+#sci:123e123
+#punc:;
+4:	double b = 123e123;
+#key:double
+#id:c
+#op:=
+#sci:123e-123
+#punc:;
+5:	double c = 123e-123;
+#key:double
+#id:d
+#op:=
+#sci:123e+123
+#punc:;
+6:	double d = 123e+123;
+#key:double
+#id:e
+#op:=
+#sci:123E-123
+#punc:;
+7:	double e = 123E-123;
+#key:double
+#id:f
+#op:=
+#sci:123E+123
+#punc:;
+8:	double f = 123E+123;
+#key:double
+#id:g
+#op:=
+#sci:12.3e123
+#punc:;
+9:	double g = 12.3e123;
+#key:double
+#id:h
+#op:=
+#sci:12.3E-123
+#punc:;
+10:	double h = 12.3E-123;
+#key:double
+#id:i
+#op:=
+#sci:.3e-123
+#punc:;
+11:	double i = .3e-123;
+#key:double
+#id:j
+#op:=
+#sci:1.e123
+#punc:;
+12:	double j = 1.e123;
+13:
+#punc:}
+14:}

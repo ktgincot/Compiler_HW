@@ -1,0 +1,23 @@
+#string:aaaaa
+1:"aaaaa"
+2:
+#string:int void idididi\n
+3:"int void idididi\n"
+4:
+#string:\t \n
+5:"\t \n"
+6:
+#string:asdddd
+7:"asdddd"
+8:
+#char:'a'
+9:'a'
+10:
+#char:'b'
+11:'b'
+12:
+#char:'\n'
+13:'\n'
+14:
+#char:'\t'
+15:'\t'
